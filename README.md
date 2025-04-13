@@ -80,8 +80,8 @@ cat ~/.config/solana/id.json
 * The exported array is your `Private-Key`, Save it.
 
 ### 3. Import and Fund Node Wallet
-* Import `Private-Key` into your `Backpack` wallet. or `okx wallet`
-* Fund it with `0.0005 ETH` on `Eclipse` Network
+* Import `Private-Key` into your `OKX wallet` wallet.
+* Fund it with `0.0005 ETH` on `Eclipse` Network & Visit here to Bridge (https://relay.link/)
 
 ---
 
