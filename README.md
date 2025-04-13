@@ -10,7 +10,7 @@
 
 # Setup Guide
 ## Presequities
-- Eclipse wallet (.eg `Backpack` `okx wallet`) funded with `0.0005 ETH`
+- Eclipse wallet (.eg `okx wallet`) funded with `0.0005 ETH`
 - A minimal CPU system or VPS, [Guide to buy and setup a VPS](https://x.com/airdropzenith_/status/1889908762678534407?s=46&t=NgAwg5Rl2WrF88epuFrfSQ).
 - Linux Ubuntu Terminal
 - Windows users: Must install Linux Ubuntu Terminal using WSL. 
