@@ -10,7 +10,7 @@
 
 # Setup Guide
 ## Presequities
-- Eclipse wallet (.eg `okx wallet`) funded with `0.0005 ETH`
+- Eclipse wallet (.eg `okx wallet`) funded with `0.001 ETH`
 - A minimal CPU system or VPS, [Guide to buy and setup a VPS](https://x.com/airdropzenith_/status/1889908762678534407?s=46&t=NgAwg5Rl2WrF88epuFrfSQ).
 - Linux Ubuntu Terminal
 - Windows users: Must install Linux Ubuntu Terminal using WSL. 
@@ -51,7 +51,7 @@ solana --version
 
 **4. Switch RPC**
 ```bash
-solana config set --url https://eclipse.helius-rpc.com/
+solana config set --url https://mainnetbeta-rpc.eclipse.xyz/
 ```
 
 ---
