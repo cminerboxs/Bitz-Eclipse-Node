@@ -61,7 +61,7 @@ solana config set --url https://eclipse.helius-rpc.com/
 ```bash
 solana-keygen new
 ```
-* Set a password or skip by pressing `Enter`.
+* Skip by pressing `Enter`.
 * Save your Seed-Phrase & Public-Key
 * `Public-Key`: Is your node **Eclipse wallet address**.
 
@@ -81,7 +81,9 @@ cat ~/.config/solana/id.json
 
 ### 3. Import and Fund Node Wallet
 * Import `Private-Key` into your `OKX wallet` wallet.
-* Fund it with `0.0005 ETH` on `Eclipse` Network & Visit here to Bridge (https://relay.link/)
+* Fund it with `0.0001 ETH` on `Eclipse` Network, So Visit here to Bridge (https://relay.link/)
+* You need 0.001 $ETH on Eclipse to start mining
+* So send $ETH to your public key
 
 ---
 
