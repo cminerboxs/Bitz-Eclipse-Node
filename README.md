@@ -11,7 +11,7 @@
 # Setup Guide
 ## Presequities
 - Eclipse wallet (.eg `okx wallet`) funded with `0.001 ETH`
-- A minimal CPU system or VPS, [Guide to buy and setup a VPS](https://x.com/airdropzenith_/status/1889908762678534407?s=46&t=NgAwg5Rl2WrF88epuFrfSQ).
+- A minimal CPU system or VPS, [Guide to buy and setup a VPS](https://x.com/cminerbox/status/1924469919103480251?s=46&t=NgAwg5Rl2WrF88epuFrfSQ).
 - Linux Ubuntu Terminal
 - Windows users: Must install Linux Ubuntu Terminal using WSL. 
 
@@ -88,7 +88,7 @@ cat ~/.config/solana/id.json
 
 ### 3. Import and Fund Node Wallet
 * Import `Private-Key` into your `OKX wallet` wallet.
-* Fund it with `0.0001 ETH` on `Eclipse` Network, So Visit here to Bridge (https://relay.link/)
+* Fund it with `0.001 ETH` on `Eclipse` Network, So Visit here to Bridge (https://relay.link/)
 * You need 0.001 $ETH on Eclipse to start mining
 * So send $ETH to your public key
 
