@@ -88,7 +88,7 @@ cat ~/.config/solana/id.json
 
 ### 3. Import and Fund Node Wallet
 * Import `Private-Key` into your `OKX wallet` wallet.
-* Fund it with `0.001 ETH` on `Eclipse` Network,  Go to Bridge $ETH to Eclipse (app.eclipse.xyz/bridge)
+* Fund it with `0.001 ETH` on `Eclipse` Network,  Go to Bridge $ETH to Eclipse (https://app.eclipse.xyz/bridge)
 * You need 0.001 $ETH on Eclipse to start mining
 * So send $ETH to your public key
 
