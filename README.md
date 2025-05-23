@@ -109,7 +109,7 @@ bitz collect
 
 * Your Miner Node is Running successfully now.
 * Pay less Fee (To Avoid paying fee every time to mine)
-* Default CPU utilized is `1 core`, You can set the CPU cores for your Bitz miner. Stop the node with `Ctrl+C`, then replace your `-c` with your system `cores` and enter the following command:
+* Adjust the `-c` flag based on your device cores for your Bitz miner. Stop the node with `Ctrl+C`, then replace your `-c` with your system `cores` and enter the following command:
 ```bash
 bitz collect -p https://mainnet-pool.powpow.app/ -c 8
 ```
