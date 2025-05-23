@@ -108,7 +108,7 @@ bitz collect
 ![image](https://github.com/user-attachments/assets/7c526a4b-07da-4ad5-889f-17674761b5e7)
 
 * Your Miner Node is Running successfully now.
-* Default CPU utilized is `1 core`, You can set the CPU cores for your Bitz miner. Stop the node with `Ctrl+C`, then replace your `-p` with your system `cores` and enter the following command:
+* Default CPU utilized is `1 core`, You can set the CPU cores for your Bitz miner. Stop the node with `Ctrl+C`, then replace your `8` with your system `cores` and enter the following command:
 ```bash
 bitz collect --cores 8
 ```
