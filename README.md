@@ -114,6 +114,7 @@ bitz collect
 bitz collect -p https://mainnet-pool.powpow.app/ -c 8
 ```
 * minimize screen: `Ctrl+A+D`
+* Check your hashpower `bitz benchmark -c 8`
 * return screen: `screen -r bitz`
 * stop the node while in screen: `Ctrl+C`
 * screen lists: `screen -ls`
