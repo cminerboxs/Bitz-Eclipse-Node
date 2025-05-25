@@ -108,10 +108,9 @@ bitz collect
 ![image](https://github.com/user-attachments/assets/7c526a4b-07da-4ad5-889f-17674761b5e7)
 
 * Your Miner Node is Running successfully now.
-* Pay No gas Fee when you connect your miner to the main mining pool (follow command below)
-* Adjust the `-c` flag based on your device cores for your Bitz miner. Stop the node with `Ctrl+C`, then replace your `-c` with your system `cores` and enter the following command:
+* Adjust the `-c` flag based on your device cores for your Bitz miner. Stop the node with `Ctrl+C`, then replace your `8` with your system `cores` and enter the following command:
 ```bash
-bitz collect -p https://mainnet-pool.powpow.app/ -c 8
+bitz collect --cores 8
 ```
 * minimize screen: `Ctrl+A+D`
 * Check your hashpower `bitz benchmark -c 8`
